@@ -46,9 +46,9 @@
     "lodash.deburr": "^4.1.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.901.8",
-    "@angular/cli": "^9.1.12",
-    "@angular/common": "^9.1.9",
+    "@angular-devkit/build-angular": "^13.2.0",
+    "@angular/cli": "^12.0.0",
+    "@angular/common": "^19.2.16",
     "@angular/compiler": "^9.1.9",
     "@angular/compiler-cli": "^9.1.9",
     "@angular/core": "^11.0.5",
